@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+	<name>Peter</name>
+	<gender>male</gender>
+	<age>34</age>
+	<city>Mykolaiv</city>
+	<married>true</married>
+	<children>
+		<name>Stepan</name>
+		<age>7</age>
+		<gender>male</gender>
+	</children>
+	<children>
+		<name>Stephania</name>
+		<age>3</age>
+		<gender>female</gender>
+	</children>
+	<pets>dog</pets>
+	<course_id>14a5cf52-2f29-4d21-a03e-e087f1db8d33</course_id>
+	<lesson_days>Tuesday</lesson_days>
+	<lesson_days>Thursday</lesson_days>
+	<progress>99</progress>
+</student>

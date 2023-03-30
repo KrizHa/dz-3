@@ -1,0 +1,24 @@
+{
+  "name": "Peter", 
+  "gender": "male",
+  "age": 34,
+  "city": "Mykolaiv",
+  "married": true,
+  "children":[
+      {
+         "name":"Stepan",
+         "age":7,
+         "gender": "male"
+      },
+      {
+         "name":"Stephania",
+         "age":3,
+         "gender": "female"
+      }
+   ],
+   "pets": null,
+   "course_id": "14a5cf52-2f29-4d21-a03e-e087f1db8d33",
+   "lesson_days": ["Tuesday", "Thursday"],
+   "progress": 99
+   
+}
